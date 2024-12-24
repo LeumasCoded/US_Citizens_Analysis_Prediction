@@ -47,5 +47,5 @@ This script focuses on building a **machine learning model** to predict income l
 
 ### **Clone the Repository**
 ```bash
-git clone https://github.com/your-username/US_Citizens_Analysis_and_Prediction.git
+git clone https://github.com/LeumasCoded/US_Citizens_Analysis_Prediction.git
 cd US_Citizens_Analysis_and_Prediction
